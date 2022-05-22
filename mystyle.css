@@ -333,6 +333,9 @@ li.recentcomments {
   list-style: none;
 }
 
+tr { 
+	background-color: purple; 
+}
 .tab-content .tab-thumb {
   float: left;
   margin-right: 8px;
