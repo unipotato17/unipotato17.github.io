@@ -203,10 +203,12 @@ textarea {
 
 table {
 	width: 100%; 
+	background-color: $301934;
 }
 
 td {
 	width: 14%; 
+	color: #FFFFFF; 
 }
 
 .clear:after,
