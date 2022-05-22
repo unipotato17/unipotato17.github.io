@@ -204,6 +204,7 @@ textarea {
 table {
 	width: 100%; 
 	background-color: $301934;
+	border: none; 
 }
 
 td {
