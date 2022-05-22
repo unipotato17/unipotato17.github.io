@@ -201,6 +201,11 @@ textarea {
 	display: table;
 }
 
+table {
+	width: 14%; 
+}
+
+
 .clear:after,
 .entry-content:after,
 .comment-content:after,
