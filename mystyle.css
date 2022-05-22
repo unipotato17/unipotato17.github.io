@@ -202,9 +202,12 @@ textarea {
 }
 
 table {
-	width: 14%; 
+	width: 100%; 
 }
 
+td {
+	width: 14%; 
+}
 
 .clear:after,
 .entry-content:after,
