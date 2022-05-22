@@ -334,7 +334,11 @@ li.recentcomments {
 }
 
 tr { 
-	background-color: purple; 
+	background-color: #570374; 
+	border-color: #570374;
+	text-align: center; 
+	color: white;
+	
 }
 .tab-content .tab-thumb {
   float: left;
