@@ -401,7 +401,7 @@ li.recentcomments {
 }
 .tab-content #messages li:before {
   content: '\f0e5';
-  font-family: fontawesome;
+  font-family:'Alegreya Sans SC';
   float: left;
   padding-right: 10px;
   font-size: 20px;
