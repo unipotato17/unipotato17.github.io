@@ -203,8 +203,9 @@ textarea {
 
 table {
 	width: 100%; 
-	background-color: $301934;
+	background-color: #301934;
 	border: none; 
+	color: white; 
 }
 
 td {
@@ -214,7 +215,8 @@ td {
 
 tr {
 	text-align: center; 
-	color: white;
+	background-color: #301934;
+	color: white; 
 }
 
 .clear:after,
