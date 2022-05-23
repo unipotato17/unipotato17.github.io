@@ -212,6 +212,11 @@ td {
 	color: #FFFFFF; 
 }
 
+tr {
+	text-align: center; 
+	color: white;
+}
+
 .clear:after,
 .entry-content:after,
 .comment-content:after,
@@ -344,13 +349,7 @@ li.recentcomments {
   list-style: none;
 }
 
-tr { 
-	background-color: #570374; 
-	border-color: #570374;
-	text-align: center; 
-	color: white;
-	
-}
+
 .tab-content .tab-thumb {
   float: left;
   margin-right: 8px;
